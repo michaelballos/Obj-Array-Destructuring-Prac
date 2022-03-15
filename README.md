@@ -64,6 +64,7 @@ const yoo = [
  
  ## Check Code
  (Should not return error)
+ -paste at bottom of editor-
  
 function main() {
   const problems = {
